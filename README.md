@@ -9,7 +9,7 @@ game development and 3D modeling.
 
 ## Contents
 - Blender models and renders
-- (Future) Unity game prototypes
+- Unity game prototypes
 
 ## Notes
 This portfolio is continuously updated as I improve my skills and work on new projects.
