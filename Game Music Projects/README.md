@@ -1,6 +1,6 @@
 # Game Music Projects
 
-This folder contains original music compositions created for games using Studio One, mainly focused on theme songs and atmospheric pieces.
+This folder contains original music compositions created for games, mainly focused on theme songs and atmospheric pieces.
 
 ## About
 Here youâ€™ll find music tracks I have composed while exploring game audio design and improving my skills in music production.
@@ -13,7 +13,8 @@ These pieces are designed to enhance mood, storytelling, and player immersion â€
 - Emotional and cinematic compositions
 
 ## Tools & Workflow
-- Studio One
+- Studio One (DAW)
+- MIDI keyboard for composing and recording melodies
 - Virtual instruments and sound libraries
 - Basic mixing and mastering techniques
 
