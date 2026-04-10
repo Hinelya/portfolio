@@ -1,29 +1,27 @@
-# Unity Game Projects
+# Game Music Projects
 
-This folder contains my Unity-based game development projects.
+This folder contains original music compositions created for games using Studio One, mainly focused on theme songs and atmospheric pieces.
 
 ## About
-Here you’ll find small-scale games and gameplay prototypes I have developed while improving my skills in Unity and C#.  
-The focus of these projects is understanding core game mechanics, system design, and clean scripting practices.
+Here you’ll find music tracks I have composed while exploring game audio design and improving my skills in music production.
+
+These pieces are designed to enhance mood, storytelling, and player immersion — similar to how music is used in real game environments.
+
+## Style & Focus
+- Theme songs for games
+- Ambient and atmospheric soundtracks
+- Emotional and cinematic compositions
+
+## Tools & Workflow
+- Studio One
+- Virtual instruments and sound libraries
+- Basic mixing and mastering techniques
 
 ## Contents
-- Unity project source files (Assets, ProjectSettings, Packages)
-- C# gameplay scripts
-- Scenes and prefabs
-- UI elements and basic game systems
-- Screenshots of the games 
-
-## Technical Focus
-These projects include implementations of:
-- Physics-based player movement
-- Collision and trigger detection
-- Score and game state management
-- Basic UI systems
-- GameManager architecture
+- Original audio files (MP3)
 
 ## Purpose
-These projects represent my learning journey in game development.  
-Each project is built to strengthen my understanding of Unity architecture, object-oriented programming, and gameplay system design.
+These compositions are part of my journey into game development, where I aim to combine visuals (Blender/Unity) with audio to create more complete and immersive experiences.
 
 ## Status
-This folder is actively updated as I create new prototypes and improve existing systems.
+This folder is actively updated as I compose new tracks and improve my production skills.
