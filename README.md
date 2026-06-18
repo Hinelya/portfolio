@@ -5,7 +5,7 @@ game development and 3D modeling.
 
 ## Current Focus
 - 3D modeling with Blender
-- Learning game development with Unity and C#
+- Improving game development skills with Unity and C#
 
 ## Contents
 - Blender models and renders
