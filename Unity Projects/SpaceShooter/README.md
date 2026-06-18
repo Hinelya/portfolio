@@ -20,7 +20,7 @@ The game ends when the player collides with an asteroid.
 - Projectile movement and collision detection
 - Automatic projectile destruction
 
-### Enemy (Asteroid) System
+### Asteroid System
 - Asteroid prefab creation
 - Movement behavior
 - Collision-based destruction
@@ -32,14 +32,14 @@ The game ends when the player collides with an asteroid.
 ### Game Management
 - Score tracking system
 - UI-based score display
-- Game Over logic
-- Timed destruction of explosion effects
+- Game Over and Restart logic
+- Timed destruction of explosion effects and Asteroids
 - Centralized scene management
 
 ### Audio System
 - Shooting sound effects
 - Explosion sound effects
-- Basic game audio setup
+- Background music
 
 ## Technical Implementation
 
