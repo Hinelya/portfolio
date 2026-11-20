@@ -25,11 +25,11 @@ public class GameController : MonoBehaviour
     {
         if(restart == true)
         {
-            if(Input.GetKeyDown(KeyCode.R))
+            if(Input.GetKeyDown(KeyCode.R) || Input.GetButtonDown("Fire2"))
             {
                 SceneManager.LoadScene(0);
             }
-             if (Input.GetKeyDown(KeyCode.Q))
+             if (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.JoystickButton2))
             {
                 Application.Quit();
             }
@@ -66,7 +66,7 @@ public class GameController : MonoBehaviour
     public void GameOver()
     {
         gameOver = true;
-        gameoverText.text = "Game Over";
+        gameoverText.text = "Game Over!";
     }
     void Start()
     {
